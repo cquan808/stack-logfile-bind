@@ -9,11 +9,11 @@
 
 clone this repo
 
-`git clone`
+`git clone https://github.com/cquan808/stack-logfile-bind.git`
 
 change to directory:
 
-`cd`
+`cd stack-logfile-bind`
 
 deploy stack:
 

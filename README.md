@@ -15,6 +15,8 @@ change to directory:
 
 `cd stack-logfile-bind`
 
+**Note:** you'll need to build the image with `docker build -t <image-name> .` and replace image in `docker-compose`
+
 deploy stack:
 
 `sudo docker stack deploy -c docker-compose.yml stack`
